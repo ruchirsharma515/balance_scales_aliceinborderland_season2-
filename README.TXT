@@ -4,9 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: KING OF DIAMONDS / BALANCE SCALES / 天秤
+PURPOSE OF PROJECT: FUN GAME REPLICATING ALICE IN BORDERLAND SEASON 2
+VERSION or DATE: JUNE 2025 
+AUTHORS: RUCHIR SHARMA 
