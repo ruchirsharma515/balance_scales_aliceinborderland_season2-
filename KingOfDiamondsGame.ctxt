@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KingOfDiamondsGame
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment2.params=frame
+comment2.target=int\ pickNumber(javax.swing.JFrame)
+comment3.params=delta
+comment3.target=void\ changeScore(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ startGame()
+comment6.params=
+comment6.target=java.util.List\ alivePlayers()
+comment7.params=
+comment7.target=boolean\ eliminatedCountChanged()
+numComments=8
